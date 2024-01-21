@@ -1,5 +1,3 @@
-# 01/01
-
 ## <font color="#00b0f0"> Syntax of C++</font>
 
 ```Cpp
@@ -159,7 +157,7 @@ int main() {
 ```
 
 
-# 08/01
+
 ## <font color="#00b0f0">Scope resoultion operator</font>
 
 ```cpp
